@@ -1,0 +1,52 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: #1C2233;
+    color: #3b3f4a;
+    margin: 0;
+    padding: 0;
+}
+h2{
+    color: orangered;
+    text-align: center;
+}
+.contente{
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+.quadrado{
+    text-align: center;
+    width: 300px;
+    height: 200px;
+    background-color: #373F55;
+    margin: 20px;
+    display: inline-block;
+    vertical-align: top;
+    position: relative;
+    color: #1C2233;
+    border-radius: 20px;
+}
+.vector{
+    width: 30px;
+    height: 30px;
+    position: flex;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+.titulo{
+    text-align: center;
+    color: #FF8A00;
+    font-size: 20px;
+    margin-top: 20px;
+}
+.texto{
+    text-align: center;
+    margin-top: 10px;
+    color: aliceblue;
+    font-size:12px;
+    padding: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
